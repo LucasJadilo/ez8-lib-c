@@ -1,0 +1,5 @@
+.CODE
+LDA 10
+STA 10
+NOP
+HALT

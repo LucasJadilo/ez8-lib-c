@@ -1,0 +1,10 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+ColumnLimit: 100
+BreakBeforeBraces: Linux
+AlignConsecutiveBitFields: Consecutive
+AlignConsecutiveMacros: Consecutive
+AllowShortEnumsOnASingleLine: false
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortBlocksOnASingleLine: Empty
+InsertNewlineAtEOF: true
